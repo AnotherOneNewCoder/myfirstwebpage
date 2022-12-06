@@ -2,7 +2,7 @@
 
 ## My name is Ivan!
 
-- I want to become a android devoloper!
+- I want to become an android devoloper!
 
 - I'm studing in Netology.
 
